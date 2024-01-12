@@ -1,19 +1,21 @@
 # Lauren Baker
-- 📍 Farmington Hills, MI 48331
+- 📍 Farmington Hills, MI 
 - ✉️ LaurenHalleCom@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/laurenbakermi/)
-- 🌐 [Google Foundations of Cybersecurity Certification](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
 
 ## Professional Summary
-Result-oriented recent graduate with a passion for technology and data-driven decision-making. Eager to apply my project coordination expertise to enhance SIEM tool utilization and programming language proficiency. Enthusiastically merging my Healthcare Administration and cybersecurity acumen to ensure secure access for our network's diverse patient base.
+A recent graduate with a passion for technology and data-driven decision-making, seeking to apply project coordination expertise and merge Healthcare Administration and cybersecurity acumen to ensure secure access for a network's diverse patient base. Pursuing Google Cybersecurity and Security+ Certifications.
 
-Currently persuing:
-- 🌐 Google Cybersecurity Certification
-- 🌐 CompTIA Security+ Certification
-- 🌐 [Google Foundations of Cybersecurity Certification](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
+Certification:
+- 🌐 Pending - Google Cybersecurity Certification
+- 🌐 Pending - CompTIA Security+ Certification
+- 🌐 [Google Foundations of Cybersecurity Google Certification](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
+- 🌐 [Assets, Threats, and Vulnerabilities Google Certification](https://coursera.org/share/41d791edd180d3a9261d177ce7949756)
+- 🌐 [Play It Safe: Manage Security Risks Google Certification](https://coursera.org/share/8224b964dc60f9f7142ea2beec14e3a4)
+- 🌐 [Connect and Protect: Networks and Network Security Google Certification](https://coursera.org/share/e479ce6eda800a5950d72712a2c93c6b)
+- 🌐 [Tools of the Trade: Linux and SQL Google Certification](https://coursera.org/share/87533d5795c53bce60ce2fdb8de3fef9)
 
-
-## Work Experience
+## Professional Experience
 ### Comparative Strategy Extern - PwC | 01/2023 - 06/2023
 Remote
 - Enhanced student and alumni engagement by implementing landscape and market mapping strategies.
@@ -40,11 +42,15 @@ West Bloomfield, MI
 - 2022 | University of Michigan-Flint
 
 ## Technical Skills
-- Cybersecurity fundamentals
-- MS Suite
-- Slack
-- AthenaNet
+- SQL
+- Linux
+- Python
 - Data Analysis
+- Bash
+- CLI
+- Healthcare Analytics
+- Jira
+- SIEM
 - Project Coordination and Management
 - HEDIS Compliance
 - Strategic Planning
@@ -52,7 +58,7 @@ West Bloomfield, MI
 - Competitive Intelligence Development
 
 ## Personal Attributes
-Highly Intuitive, Detail-Oriented, Organized, Problem-Solving Analytical Thinker with the ability to manage multiple projects simultaneously
+Highly Intuitive, Detail-Oriented, Organized, Problem-Solving, Analytical Thinker with the ability to manage multiple projects simultaneously
 
 
 ![Resume](https://github.com/LaurenBaker01/Resume/assets/150492784/86cc88a6-db46-4e64-9c43-3d2875ac47cd)
