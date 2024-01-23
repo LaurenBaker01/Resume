@@ -62,5 +62,4 @@ West Bloomfield, MI
 Highly Intuitive, Detail-Oriented, Organized, Problem-Solving, Analytical Thinker with the ability to manage multiple projects simultaneously
 
 
-![Resume](https://github.com/LaurenBaker01/Resume/assets/150492784/48d2d06e-b70f-4a65-89ba-d99e0a383205)
-
+![Resume](https://github.com/LaurenBaker01/Resume/assets/150492784/c3ce366b-747d-49e8-8e34-ceb9b621b7ee)
