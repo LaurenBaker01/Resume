@@ -45,6 +45,7 @@ West Bloomfield, MI
 - SQL
 - Linux
 - Python
+- Wireshark
 - Data Analysis
 - Bash
 - CLI
