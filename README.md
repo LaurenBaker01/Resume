@@ -1,5 +1,5 @@
 # Lauren Baker
-- 📍 Farmington Hills, MI 
+- 📍 MI & NYC
 - ✉️ LaurenHalleCom@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/laurenbakermi/)
 
@@ -14,6 +14,23 @@ Certification:
 - 🌐 [Play It Safe: Manage Security Risks Google Certification](https://coursera.org/share/8224b964dc60f9f7142ea2beec14e3a4)
 - 🌐 [Connect and Protect: Networks and Network Security Google Certification](https://coursera.org/share/e479ce6eda800a5950d72712a2c93c6b)
 - 🌐 [Tools of the Trade: Linux and SQL Google Certification](https://coursera.org/share/87533d5795c53bce60ce2fdb8de3fef9)
+
+## Technical Skills
+- SQL
+- Linux
+- Python
+- Wireshark
+- Data Analysis
+- Bash
+- CLI
+- Healthcare Analytics
+- Jira
+- SIEM
+- Project Coordination and Management
+- HEDIS Compliance
+- Strategic Planning
+- Customer Service
+- Competitive Intelligence Development
 
 ## Professional Experience
 ### Comparative Strategy Extern - PwC | 01/2023 - 06/2023
@@ -41,25 +58,9 @@ West Bloomfield, MI
 - Bachelor of Science - Healthcare Administration
 - 2022 | University of Michigan-Flint
 
-## Technical Skills
-- SQL
-- Linux
-- Python
-- Wireshark
-- Data Analysis
-- Bash
-- CLI
-- Healthcare Analytics
-- Jira
-- SIEM
-- Project Coordination and Management
-- HEDIS Compliance
-- Strategic Planning
-- Customer Service
-- Competitive Intelligence Development
-
 ## Personal Attributes
 Highly Intuitive, Detail-Oriented, Organized, Problem-Solving, Analytical Thinker with the ability to manage multiple projects simultaneously
 
 
-![Resume](https://github.com/LaurenBaker01/Resume/assets/150492784/c3ce366b-747d-49e8-8e34-ceb9b621b7ee)
+
+![Resume](https://github.com/LaurenBaker01/Resume/files/14216547/BakerLaurenResume.pdf)
