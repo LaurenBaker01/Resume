@@ -63,4 +63,4 @@ Highly Intuitive, Detail-Oriented, Organized, Problem-Solving, Analytical Thinke
 
 
 
-![Resume](https://github.com/LaurenBaker01/Resume/files/14216547/BakerLaurenResume.pdf)
+![Resume](https://github.com/LaurenBaker01/Resume/assets/150492784/249de2e7-d0f9-43ca-9684-78705468912c)
