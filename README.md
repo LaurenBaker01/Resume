@@ -7,13 +7,15 @@
 Recent graduate passionate about technology and data-driven decision-making, bringing project coordination expertise and a blend of Healthcare Administration and Cybersecurity knowledge. Eager to contribute to a dynamic team, my goal is to apply this unique skill set in a role emphasizing innovation, attention to detail, and a commitment to advancing organizational security. Recently earned a Google Cybersecurity Certification and Security+ Certification pending March 2024.
 
 Certification:
-- 🌐 Pending - CompTIA Security+ Certification
+- 🌐 Pending March 2024 - CompTIA Security+ Certification
 - 🌐 [Google Cybersecurity Certification](https://coursera.org/share/559f7ff39ae90e4ea2669261585cb0cb)
+- 🌐 [Automate Cybersecurity Tasks with Python](https://coursera.org/share/7c0c90bca1d91cf1eabbf12243a4e39a)
+- 🌐 [Tools of the Trade: Linux and SQL Google Certification](https://coursera.org/share/87533d5795c53bce60ce2fdb8de3fef9)
 - 🌐 [Google Foundations of Cybersecurity Google Certification](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
 - 🌐 [Assets, Threats, and Vulnerabilities Google Certification](https://coursera.org/share/41d791edd180d3a9261d177ce7949756)
 - 🌐 [Play It Safe: Manage Security Risks Google Certification](https://coursera.org/share/8224b964dc60f9f7142ea2beec14e3a4)
 - 🌐 [Connect and Protect: Networks and Network Security Google Certification](https://coursera.org/share/e479ce6eda800a5950d72712a2c93c6b)
-- 🌐 [Tools of the Trade: Linux and SQL Google Certification](https://coursera.org/share/87533d5795c53bce60ce2fdb8de3fef9)
+- 🌐 [Put It to Work: Prepare for Cybersecurity Jobs](https://coursera.org/share/8df415225712f6ba39b059a5200b422b)
 
 ## Technical Skills
 - SQL
@@ -61,8 +63,6 @@ West Bloomfield, MI
 ## Personal Attributes
 Highly Intuitive, Detail-Oriented, Organized, Problem-Solving, Analytical Thinker with the ability to manage multiple projects simultaneously
 
-[Google Cybersecurity Certificate](https://github.com/LaurenBaker01/Resume/files/14658093/google.cybersec.CERT.pdf)
 
-
-![Resume](https://github.com/LaurenBaker01/Resume/files/14658100/BakerL.pdf)
+<img width="570" alt="Screenshot 2024-03-19 at 8 51 26 PM" src="https://github.com/LaurenBaker01/Resume/assets/150492784/a9a92ff2-acb3-4942-8232-45a16aa38e2e">
 
