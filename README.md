@@ -7,7 +7,7 @@
 A recent graduate with a passion for technology and data-driven decision-making, seeking to apply project coordination expertise and merge Healthcare Administration and cybersecurity acumen to ensure secure access for a network's diverse patient base. Pursuing Google Cybersecurity and Security+ Certifications.
 
 Certification:
-- 🌐 Pending - Google Cybersecurity Certification
+- 🌐 [Google Cybersecurity Certification](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
 - 🌐 Pending - CompTIA Security+ Certification
 - 🌐 [Google Foundations of Cybersecurity Google Certification](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
 - 🌐 [Assets, Threats, and Vulnerabilities Google Certification](https://coursera.org/share/41d791edd180d3a9261d177ce7949756)
