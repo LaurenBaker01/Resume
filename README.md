@@ -4,10 +4,10 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/laurenbakermi/)
 
 ## Professional Summary
-A recent graduate with a passion for technology and data-driven decision-making, seeking to apply project coordination expertise and merge Healthcare Administration and cybersecurity acumen to ensure secure access for a network's diverse patient base. Pursuing Google Cybersecurity and Security+ Certifications.
+Recent graduate passionate about technology and data-driven decision-making, bringing project coordination expertise and a blend of Healthcare Administration and Cybersecurity knowledge. Eager to contribute to a dynamic team, my goal is to apply this unique skill set in a role emphasizing innovation, attention to detail, and a commitment to advancing organizational security. Recently earned a Google Cybersecurity Certification and Security+ Certification pending March 2024.
 
 Certification:
-- 🌐 [Google Cybersecurity Certification](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
+- 🌐 [Google Cybersecurity Certification](https://coursera.org/share/559f7ff39ae90e4ea2669261585cb0cb)
 - 🌐 Pending - CompTIA Security+ Certification
 - 🌐 [Google Foundations of Cybersecurity Google Certification](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
 - 🌐 [Assets, Threats, and Vulnerabilities Google Certification](https://coursera.org/share/41d791edd180d3a9261d177ce7949756)
@@ -61,6 +61,8 @@ West Bloomfield, MI
 ## Personal Attributes
 Highly Intuitive, Detail-Oriented, Organized, Problem-Solving, Analytical Thinker with the ability to manage multiple projects simultaneously
 
+[Google Cybersecurity Certificate](https://github.com/LaurenBaker01/Resume/files/14658093/google.cybersec.CERT.pdf)
 
 
-![Resume](https://github.com/LaurenBaker01/Resume/assets/150492784/249de2e7-d0f9-43ca-9684-78705468912c)
+![Resume](https://github.com/LaurenBaker01/Resume/files/14658100/BakerL.pdf)
+
